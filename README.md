@@ -15,5 +15,9 @@ Task-man is a simple task management app which utilizing the MERN stack (MongoDB
 * Login, logout and signup 
 * Remove and mark as done
 
-
+## Screenshots
 ![img](https://i.imgyukle.com/2019/11/23/RxjJZc.png)
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
